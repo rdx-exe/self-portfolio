@@ -97,8 +97,8 @@ export const projectData = [
     description: "A modern, fully responsive personal portfolio website showcasing my skills, projects, and background. Designed to provide detailed information about me in a clean, interactive, and visually appealing format across all devices.",
     image: assets.portfolio,
     tags: ["Tailwind CSS", "JavaScript", "React JS", "Next.js", "Node.js"],
-    github: "",
-    webapp: "",
+    github: "https://github.com/rdx-exe/self-portfolio",
+    webapp: "https://ritam-das.vercel.app",
   },
 ];
 
